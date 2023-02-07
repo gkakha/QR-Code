@@ -1,0 +1,46 @@
+/* .improve {
+  style="width: 288px;
+  height: 56px;
+  padding: 16px;
+  magrin: auto;"
+} */
+
+body {
+  background-color: #d5e1ef;
+  display: flex;
+  height: 100vh;
+}
+
+div {
+  width: 320px;
+  height: 497px;
+  background-color: white;
+  margin: auto;
+  padding: 16px;
+  border-radius: 20px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #1f314f;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+}
+p {
+  color: #7d889e;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18.9px;
+  text-align: center;
+  letter-spacing: 0.1875px;
+}
